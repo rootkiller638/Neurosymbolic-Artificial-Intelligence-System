@@ -1,0 +1,2 @@
+# Neurosymbolic-Artificial-Intelligence-System
+融合了逻辑编程、神经符号架构、数学问题分解和伦理评估等关键技术，在单机环境下实现了数学逻辑与哲学思维的交叉验证。开发者可调整ETHICS_WEIGHTS参数优化价值取向，或修改LogicEngine规则库扩展应用场景。
